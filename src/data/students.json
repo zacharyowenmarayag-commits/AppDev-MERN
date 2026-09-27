@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "fullName": "John Doe",
+    "studentNumber": "50001",
+    "course": "BSIT",
+    "courseDescription": "Bachelor of Science in Information Technology",
+    "yearLevel": "3rd Year",
+    "sex": "Male"
+  },
+  {
+    "id": 2,
+    "fullName": "Jane Doe",
+    "studentNumber": "50002",
+    "course": "BSCS",
+    "courseDescription": "Bachelor of Science in Computer Science",
+    "yearLevel": "2nd Year",
+    "sex": "Female"
+  }
+]
